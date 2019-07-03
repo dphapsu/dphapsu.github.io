@@ -1,0 +1,56 @@
+* Financial
+** Big Debt Crisis by Ray Dallio
+*** Questions
+
+1. What measures of debt are publicly available and where are we in comparison to other recessions?
+2. Is there s correlation between the level of debt before a crash and its severity or duration?
+  1. Does the time course of the debt accumulation influence when it starts, it's severity, or duration?
+*
+** Company Analysis using the ideas in two books
+*** Financial Analytics With R
+*** The Goal
+
+The question is will the information necessary for the analysis be available in the databases that are available to me.
+* Spirit
+** Woo Woo Land
+*** What is the intersection of "The Intention Experiment", "The Psychonauts Field Manual", PAER experiments, CERN retopsychokinesis experiments, and religion.
+*** Throw in terminal lucidity.
+*** Joe Scott's view point on God and religion.
+*** What about Nathan Wheeler.
+** When we say God what exactly do we mean?
+*** Self Awareness
+*** Desire
+*** Intention
+*** The Old Testament and ancient Chinese history and language
+*** Bible stories from other cultures before the Bible
+*** Stories from the Cultural Context Bible
+*** A terrible prayer
+God. I had rather believe a hundred terrible truths than one pleasant lie. Show me your truth.
+** Christins today have no "skin in the game".
+In the past being a Christian meant you could be put to death by your family and neighbors for blasphemy against God. The government could put you to death for saying Caesar was not the supreme God. 
+
+Who is God has a lot to do with who has the power. And it works both ways. Who is God has a lot to say about who has the power and who has the power has a lot to say about who is God.
+* Mind
+** Useful (Spac)emacs Commands
+*** Structure Editing (Orgmode)
+
+From https://orgmode.org/worg/orgcard.html
+
+M-RET 	            insert new heading/item at current level
+C-RET 	            insert new heading after subtree
+M-S-RET 	          insert new TODO entry/checkbox item
+C-S-RET 	          insert TODO entry/ckbx after subtree
+C-c - 	            turn (head)line into item, cycle item type
+C-c * 	            turn item/line into headline
+M-LEFT/RIGHT   	    promote/demote heading
+M-S-LEFT/RIGHT 	    promote/demote current subtree
+M-S-UP/DOWN 	      move subtree/list item up/down
+C-c ^ 	            sort subtree/region/plain-list
+C-c C-x c 	        clone a subtree
+C-c C-x v 	        copy visible text
+C-c C-x C-w/M-w 	  kill/copy subtree
+C-c C-x C-y or C-y 	yank subtree
+C-x n s/w 	        narrow buffer to subtree / widen
+
+
+* TODO s is a test
